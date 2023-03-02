@@ -1,1 +1,1 @@
-# RepositorioHenry
+Logré terminar todo el ejercicio M02 Terminal, Git y Github.
